@@ -1,10 +1,13 @@
 <template>
-  <Home />
+  <div>
+    <Login />
+    <Footer />
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
+  name: 'LoginPage'
 }
 </script>
 
